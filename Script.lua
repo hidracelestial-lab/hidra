@@ -1,4 +1,3 @@
-
 --[[
     SimpleSpy v2.2 SOURCE
 
